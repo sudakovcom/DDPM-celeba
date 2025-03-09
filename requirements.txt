@@ -1,0 +1,11 @@
+einops
+torch
+torchvision
+torchaudio
+numpy
+tqdm
+matplotlib
+natsort
+gdown
+kaggle
+imageio
